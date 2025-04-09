@@ -25,13 +25,4 @@ ebpope1@cps.edu
 <br>
 Married father of two
 <br>
-Must use markdown elements:
-Link
-H1, H2
-Table
-Image
-Italics
-Bold
-Ordered list
-Checkboxes
-Unordered list
+
